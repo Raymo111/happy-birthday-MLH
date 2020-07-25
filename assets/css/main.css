@@ -2159,14 +2159,14 @@ button:disabled,
 }
 
 .panel>*.color0 {
-	background-image: url("../../images/overlay.png"), linear-gradient(135deg, #fdf2db, #f4d6cb, #d5cdcf);
+	background-image: url("../../images/overlay.png"), linear-gradient(135deg, #fdf2db, #f4d6cb 60%, #d5cdcf 90%);
 	background-size: 128px 128px, auto;
 }
 
 .panel>*.color1 {
   background:
-              linear-gradient(to top left, #55424c, rgba(163, 145, 148, 0), #f4d6cb),
-              linear-gradient(to bottom left, #937778,rgba(163, 145, 148, 0), #d5cdcf)
+			  linear-gradient(to top left, #55424c, rgba(163, 145, 148, 0), #fdf2db),
+			  linear-gradient(to bottom left, #937778,rgba(163, 145, 148, 0), #f4d6cb)
               rgba(163, 145, 148, 1);
 }
 
@@ -2640,14 +2640,14 @@ button:disabled,
 }
 
 .panel.color0 {
-	background-image: url("../../images/overlay.png"), linear-gradient(135deg, #fdf2db, #f4d6cb, #d5cdcf);
+	background-image: url("../../images/overlay.png"), linear-gradient(135deg, #fdf2db, #f4d6cb 60%, #d5cdcf 90%);
 	background-size: 128px 128px, auto;
 }
 
 .panel.color1 {
   background:
-              linear-gradient(to top left, #55424c, rgba(163, 145, 148, 0), #f4d6cb),
-              linear-gradient(to bottom left, #937778,rgba(163, 145, 148, 0), #d5cdcf)
+			  linear-gradient(to top left, #55424c, rgba(163, 145, 148, 0), #fdf2db),
+			  linear-gradient(to bottom left, #937778,rgba(163, 145, 148, 0), #f4d6cb)
               rgba(163, 145, 148, 1);
 }
 
@@ -2671,14 +2671,14 @@ button:disabled,
 	}
 
 	.panel>*.color0 {
-		background-image: url("../../images/overlay.png"), linear-gradient(135deg, #fdf2db, #f4d6cb, #d5cdcf);
+		background-image: url("../../images/overlay.png"), linear-gradient(135deg, #fdf2db, #f4d6cb 60%, #d5cdcf 90%);
 		background-size: 128px 128px, auto;
 	}
 
 	.panel>*.color1 {
 	  background:
-	              linear-gradient(to top left, #55424c, rgba(163, 145, 148, 0), #f4d6cb),
-	              linear-gradient(to bottom left, #937778,rgba(163, 145, 148, 0), #d5cdcf)
+	              linear-gradient(to top left, #55424c, rgba(163, 145, 148, 0), #fdf2db),
+	              linear-gradient(to bottom left, #937778,rgba(163, 145, 148, 0), #f4d6cb)
 	              rgba(163, 145, 148, 1);
 	}
 
@@ -3067,14 +3067,14 @@ button:disabled,
 	}
 
 	.panel.color0 {
-		background-image: url("../../images/overlay.png"), linear-gradient(135deg, #fdf2db, #f4d6cb, #d5cdcf);
+		background-image: url("../../images/overlay.png"), linear-gradient(135deg, #fdf2db, #f4d6cb 60%, #d5cdcf 90%);
 		background-size: 128px 128px, auto;
 	}
 
 	.panel.color1 {
 	  background:
-	              linear-gradient(to top left, #55424c, rgba(163, 145, 148, 0), #f4d6cb),
-	              linear-gradient(to bottom left, #937778,rgba(163, 145, 148, 0), #d5cdcf)
+	              linear-gradient(to top left, #55424c, rgba(163, 145, 148, 0), #fdf2db),
+	              linear-gradient(to bottom left, #937778,rgba(163, 145, 148, 0), #f4d6cb)
 	              rgba(163, 145, 148, 1);
 	}
 
